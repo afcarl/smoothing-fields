@@ -11,5 +11,6 @@ idealdemo.m is a script that creates a toy phantom and does smoothing
 fibertracking.m is a script that does simple fiber tracking before and after smoothing
 comparisonwithgaussian.m is a script used to compare with smoothing in the measurement domain. This script is missing steps where the reconstruction algorithm CFARI was used (implemented in the Java Imaging Science Toolkit)
 
+Implementation is available in the Java Imaging Science Toolkit. The Java source code is included here for reference.
 
 Gunnar Atli Sigurdsson, 2013
